@@ -1,0 +1,8 @@
+hello!hello 2!
+hello 3!
+hello 3!
+hello 3!
+hello 3!
+hello 3!
+hello range(0, 3)!
+hello range(0, 3)!
